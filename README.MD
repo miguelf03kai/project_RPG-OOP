@@ -1,8 +1,8 @@
 ## Using Instruction
 
-### Requiriments
+### Requirements
 - dotNet SDK
 
 ### How to run
-- Inside the project open your terminal
+- Inside the project folder open your terminal
 - execute the command "dotnet run"

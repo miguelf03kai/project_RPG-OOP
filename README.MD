@@ -1,6 +1,6 @@
 ## Using Instruction
 
-### Requiriments
+### Requirements
 - dotNet SDK
 
 ### How to run

@@ -1,4 +1,4 @@
-## Using Instruction
+## Instructions
 
 ### Requirements
 - dotNet SDK
